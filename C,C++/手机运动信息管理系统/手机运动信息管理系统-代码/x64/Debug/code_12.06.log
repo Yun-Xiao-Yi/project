@@ -1,0 +1,37 @@
+﻿  Data.c
+E:\Code\Github\MyBlog\项目\实训\move.h(1,1): warning C4828: 文件包含在偏移 0x253 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+E:\Code\Github\MyBlog\项目\实训\Data.c(127,43): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Code\Github\MyBlog\项目\实训\Data.c(100,9): warning C4101: “V”: 未引用的局部变量
+E:\Code\Github\MyBlog\项目\实训\Data.c(187,25): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\Code\Github\MyBlog\项目\实训\Data.c(164,7): warning C4101: “buf”: 未引用的局部变量
+  main.c
+E:\Code\Github\MyBlog\项目\实训\move.h(1,1): warning C4828: 文件包含在偏移 0x253 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+E:\Code\Github\MyBlog\项目\实训\main.c(194,5): warning C4013: “UserPerPrint”未定义；假设外部返回 int
+E:\Code\Github\MyBlog\项目\实训\main.c(393,4): warning C4013: “RankPrint”未定义；假设外部返回 int
+E:\Code\Github\MyBlog\项目\实训\main.c(440,4): warning C4013: “UserWeekPrint”未定义；假设外部返回 int
+E:\Code\Github\MyBlog\项目\实训\main.c(467,4): warning C4013: “ReadUserFile”未定义；假设外部返回 int
+E:\Code\Github\MyBlog\项目\实训\main.c(469,4): warning C4013: “ReadBuildGraph”未定义；假设外部返回 int
+E:\Code\Github\MyBlog\项目\实训\main.c(477,4): warning C4013: “WriteUserFile”未定义；假设外部返回 int
+E:\Code\Github\MyBlog\项目\实训\main.c(72,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Code\Github\MyBlog\项目\实训\main.c(97,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Code\Github\MyBlog\项目\实训\main.c(264,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Code\Github\MyBlog\项目\实训\main.c(295,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Code\Github\MyBlog\项目\实训\main.c(226,3): warning C4102: “defalut”: 未引用的标签
+E:\Code\Github\MyBlog\项目\实训\main.c(23,6): warning C4101: “MoveDay”: 未引用的局部变量
+E:\Code\Github\MyBlog\项目\实训\main.c(97,33): warning C4101: “i”: 未引用的局部变量
+E:\Code\Github\MyBlog\项目\实训\main.c(295,35): warning C4101: “i”: 未引用的局部变量
+  move.c
+E:\Code\Github\MyBlog\项目\实训\move.h(1,1): warning C4828: 文件包含在偏移 0x253 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+E:\Code\Github\MyBlog\项目\实训\move.c(123,21): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  Queue.c
+E:\Code\Github\MyBlog\项目\实训\move.h(1,1): warning C4828: 文件包含在偏移 0x253 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  rank.c
+E:\Code\Github\MyBlog\项目\实训\move.h(1,1): warning C4828: 文件包含在偏移 0x253 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  route.c
+E:\Code\Github\MyBlog\项目\实训\move.h(1,1): warning C4828: 文件包含在偏移 0x253 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+E:\Code\Github\MyBlog\项目\实训\route.c(123,19): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  user.c
+E:\Code\Github\MyBlog\项目\实训\move.h(1,1): warning C4828: 文件包含在偏移 0x253 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+E:\Code\Github\MyBlog\项目\实训\user.c(55,24): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码...
+  code_12.06.vcxproj -> E:\Code\Github\MyBlog\项目\实训\x64\Debug\code_12.06.exe
